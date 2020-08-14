@@ -1,0 +1,50 @@
+_repo: The-Fair-Dominion-A-Record-of-Canadian-Impressions_62844
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cuneo, Cyrus
+    birthdate: 1879
+    deathdate: 1916
+    gutenberg_agent_id: '9717'
+    url: http://www.gutenberg.org/2009/agents/9717
+    wikipedia: https://en.wikipedia.org/wiki/Cyrus_Cuneo
+creator:
+  author:
+    agent_name: Vernède, R. E. (Robert Ernest)
+    aliases:
+    - Vernède, Robert Ernest
+    - Vernede, R. E. (Robert Ernest)
+    birthdate: 1875
+    deathdate: 1917
+    gutenberg_agent_id: '52154'
+    url: http://www.gutenberg.org/2009/agents/52154
+    wikipedia: https://en.wikipedia.org/wiki/R._E._Vern%C3%A8de
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'F1001'
+- GITenberg
+tableOfContents: 'The start from Liverpool -- The steerage passage -- Landing in Canada
+  -- A fairly long day in Quebec -- The attraction of the Saguenay -- Ste. Anne de
+  Beaupré and a traveller''s vow -- A habitant village and its notaire -- Glimpses
+  of Montreal -- Toronto, Niagara Falls, and a negro porter -- Maskinongé fishing
+  on the French River -- Some superficial reflections at Sudbury -- Through the highlands
+  of Ontario -- The old timers of Kildonan and the new timers of Winnipeg -- A prairie
+  town and the prairie police -- In Calgary -- The Americanisation question -- Among
+  the ready-made farms -- Into the Rockies with a defender of the faith -- A hot bath
+  in Banff -- Canada and woman -- The lakes among the clouds -- A solitary ride into
+  the Yoho Valley -- The fruit lands of Lake Windermere -- The Selkirks: a grizzly-bear
+  country -- An eighty-mile walk through the Columbia Valley -- From Golden to the
+  coast -- A little about Vancouver city -- The happy farmers of the island -- A chat
+  with the Prime Minister of British Columbia and a big fire at Victoria -- Back through
+  Ottawa.'
+title: 'The Fair Dominion: A Record of Canadian Impressions'
+url: http://www.gutenberg.org/ebooks/62844
